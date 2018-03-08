@@ -36,7 +36,7 @@
             android:id="@+id/tv_rl_test"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="djajdajda"
             android:padding="10dp"
             android:layout_margin="10dp"
             android:background="@drawable/ic_launcher_background"/>
